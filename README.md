@@ -67,6 +67,15 @@ bash <(wget -qO- https://raw.githubusercontent.com/shengyying2025/sing-box-sheng
 ```
 
 
+或
+```
+wget https://raw.githubusercontent.com/shengyying2025/sing-box-sheng/main/sb.sh
+less sb.sh
+bash sb.sh
+
+```
+
+
 ### Sing-box-yg脚本界面预览图（注：相关参数随意填写，仅供围观）
 
 ![1d5425c093618313888fe41a55f493f](https://github.com/user-attachments/assets/2b4b04a6-2de4-499a-afa1-ed78bccc50a8)
